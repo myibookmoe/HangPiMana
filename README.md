@@ -7,3 +7,6 @@ https://www.codementor.io/@muneebali/mapkit-user-current-location-10xdbyy1v3
 
 Reverse Geocoding with CLGeocoder by Bart Jacobs
 https://cocoacasts.com/reverse-geocoding-with-clgeocoder
+
+v 0.1
+Just shows your location on a map and displays state using reverse geocoding.
