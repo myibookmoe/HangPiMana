@@ -13,3 +13,8 @@ https://www.raywenderlich.com/5247-core-location-tutorial-for-ios-tracking-visit
 
 v 0.1
 Displays a table view. You can add locations manually using the Add button, or automatically using visit tracking. Tapping a row will display more information.
+
+To do list:
+- Persistence. Simple archiving to storage should do.
+- Automatically removing rows which are over 21 days.
+
